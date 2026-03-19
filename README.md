@@ -8,3 +8,6 @@ Then run with:
 ```
 ./binary_compiler <file_to_compile> (optional: output file's name)
 ```
+
+You can add comments using ``//`` and you can use any amount of whitespaces between bits.<br>
+Any other characters outside of comments scope will raise an error.
